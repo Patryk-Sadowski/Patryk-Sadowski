@@ -13,8 +13,8 @@ My name is Patryk Sadowski I am an aspiring data analyst who gained initial expe
 - Improving my skills in data modeling and query optimization in SQL.
 
 ### 📊 Portfolio
-- [Power BI](https://www.novypro.com/profile_about/patryk-sadowski)
-- [Tableau](https://public.tableau.com/app/profile/patryk.sadowski/vizzes)
+- [**Power BI**](https://www.novypro.com/profile_about/patryk-sadowski)
+- [**Tableau**](https://public.tableau.com/app/profile/patryk.sadowski/vizzes)
 
 ### 📫 Contact
 -  Find me at: **[LinkedIn](https://www.linkedin.com/in/patryk-sadowski1/)**
